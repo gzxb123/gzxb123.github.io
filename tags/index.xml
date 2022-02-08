@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Bill Finance</title>
+    <link>https://jr.xiebiao.top/tags/</link>
+    <description>Recent content in Tags on Bill Finance</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 02 Feb 2020 21:28:04 +0000</lastBuildDate><atom:link href="https://jr.xiebiao.top/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blog</title>
+      <link>https://jr.xiebiao.top/tags/blog/</link>
+      <pubDate>Sun, 02 Feb 2020 21:28:04 +0000</pubDate>
+      
+      <guid>https://jr.xiebiao.top/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jsDelivr</title>
+      <link>https://jr.xiebiao.top/tags/jsDelivr/</link>
+      <pubDate>Sun, 02 Feb 2020 21:28:04 +0000</pubDate>
+      
+      <guid>https://jr.xiebiao.top/tags/jsDelivr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://jr.xiebiao.top/tags/hugo/</link>
+      <pubDate>Sat, 12 Oct 2019 20:28:04 +0000</pubDate>
+      
+      <guid>https://jr.xiebiao.top/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

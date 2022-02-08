@@ -1,0 +1,88 @@
+<?xml-stylesheet type="text/xsl" href="https://jr.xiebiao.top/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://jr.xiebiao.top/</loc>
+    <lastmod>2020-02-02T21:28:04+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jr.xiebiao.top/tags/blog/</loc>
+    <lastmod>2020-02-02T21:28:04+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jr.xiebiao.top/categories/blog/</loc>
+    <lastmod>2020-02-02T21:28:04+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jr.xiebiao.top/categories/</loc>
+    <lastmod>2020-02-02T21:28:04+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jr.xiebiao.top/post/blog/github_jsdelivr_ops/</loc>
+    <lastmod>2020-02-02T21:28:04+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jr.xiebiao.top/tags/jsDelivr/</loc>
+    <lastmod>2020-02-02T21:28:04+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jr.xiebiao.top/post/</loc>
+    <lastmod>2020-02-02T21:28:04+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jr.xiebiao.top/tags/</loc>
+    <lastmod>2020-02-02T21:28:04+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jr.xiebiao.top/tags/hugo/</loc>
+    <lastmod>2019-10-12T20:28:04+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jr.xiebiao.top/post/blog/creat-hugo-blog/</loc>
+    <lastmod>2019-10-12T20:28:04+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jr.xiebiao.top/about/</loc>
+    <lastmod>2019-08-08T22:25:24+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jr.xiebiao.top/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2019-08-08T22:25:24+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>

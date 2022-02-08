@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://jr.xiebiao.top/sitemap.xml
